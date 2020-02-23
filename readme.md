@@ -1,10 +1,25 @@
 为了写Qt,开始学习C++
++ ANSI C   传统K&R C
+
+## chapter4 Compound Types
+### 4.1 
+
+
 
 
 ## chapter3
 ### 3.1 简单变量
 + 基本整型 char short int long   有无符号
 + sizeof操作符返回类型或变量的长度
++ 通常一字节(byte)为存储八位的内存空间
++ bool, char, signed char, unsigned char, short, unsigned short, int, unsigned int, long, unsigned long
+
+### 3.4
++ setf()成员函数
++ 潜在的类型转化问题
++ 整型提升(integral promotion) 在计算表达式时，C++将bool, char, signed char, unsigned char, short转换为int
++ 强制类型转换的格式
+
 
 
 
