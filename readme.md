@@ -3,6 +3,18 @@
 
 ## chapter4 Compound Types
 ### 4.1 
++ C++标准模板库STL vector
+
+### 4.2 字符串
++ C-style string 空字符 
++ string类库
++ string constant   string literal 字符数组初始化
++ 每次读取一行字符串输入 getline()
++ 为什么使用get()  便于处理错误
++ C++常使用指针而非数组来处理字符串
+
+### 4.3 string类简介
+
 
 
 
