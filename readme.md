@@ -1,6 +1,19 @@
 为了写Qt,开始学习C++
 + ANSI C   传统K&R C
 
+## chapter5
+### 5.1
++ 对于类而言，前缀格式的递增操作符效率更高。
++ 组合赋值操作符
++ 逗号操作符
+
++ string类对象不使用空字符来标记字符串末尾
++ typedef typeName aliasName
+
++ cin读取基本类型时，会忽略空格与换行符
++ cin.fail()  检测EOF
+
+
 ## chapter4 Compound Types
 ### 4.1 
 + C++标准模板库STL vector
