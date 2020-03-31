@@ -1,0 +1,1 @@
+start D:\software\vs2017\VC\Auxiliary\Build\vcvarsall.bat x64
